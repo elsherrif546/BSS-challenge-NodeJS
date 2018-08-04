@@ -13,8 +13,9 @@ The DECLARATIONS of the data insertion functions discussed below live in the fol
       --> index.js
  
  # How to Launch Application and Insert Data into Locally Running mongoDB Instance
-
-Run "npm start" from this root directory with the below function invocation uncommented in the index.js file:
+  
+   - run "npm install" to install all dependencies
+   - run "npm start" from this root directory with the below function invocation uncommented in the index.js file:
 
       --> populateInProgress(populateClosed); 
 
